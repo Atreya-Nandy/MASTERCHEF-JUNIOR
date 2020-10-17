@@ -1,10 +1,10 @@
 Fried Onions Recipe:
 
-Chef: Atreya Nandy
-Recipe Servings: 2
-Prep Time: 15 mins
-Cook Time: 20 mins
-Total Cook Time: 35 mins
+Chef: Atreya Nandy,
+Recipe Servings: 2,
+Prep Time: 15 mins,
+Cook Time: 20 mins,
+Total Cook Time: 35 mins,
 Difficulty Level: Easy
 
 Ingredients:
