@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+Fried Onions Recipe:
 
-You can use the [editor on GitHub](https://github.com/Atreya-Nandy/MASTERCHEF-JUNIOR/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Chef: Atreya Nandy
+Recipe Servings: 2
+Prep Time: 15 mins
+Cook Time: 20 mins
+Total Cook Time: 35 mins
+Difficulty Level: Easy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ingredients:
 
-### Markdown
+1) 1 cup onions, sliced
+2) 1/4 cup walnuts, chopped
+3) 1 tbsp crushed coriander seeds
+4) 1 tsp green chilli, chopped
+5) 1/2 cup gram flour
+6) 1 tsp salt
+7) Oil (for frying)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Recipe:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Atreya-Nandy/MASTERCHEF-JUNIOR/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1) Slice the onions thinly and place them in a mixing bowl.
+2) Massage the salt into the onions and allow them to rest aside.
+3) Add gram flour to the sweating onions.
+4) Add walnuts, coriander seeds crushed and green chillies.
+5) Massage all of this together till the gram flour moistens and coats every onion slice.
+6) Heat oil for deep frying in a pan.
+7) Make little clumps and fry on medium flame, fry till they turn crisp and golden brown.
+8) Remove the bhaji on absorbent kitchen napkins.
+9) Serve hot and crisp with fried green chillies.
